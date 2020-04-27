@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689699414464",
+    "firebase_url": "https://merkapp-e5026.firebaseio.com",
+    "project_id": "merkapp-e5026",
+    "storage_bucket": "merkapp-e5026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689699414464:android:99e6f095b01c5399",
+        "android_client_info": {
+          "package_name": "com.example.escritorio.merkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689699414464-0soa1j73hobpbmoqb0ur588704eg0cme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.escritorio.merkapp",
+            "certificate_hash": "66f0d986d49885b095d261df861ec81db0113952"
+          }
+        },
+        {
+          "client_id": "689699414464-sssji0r8dfcjenj5ltsj9c41qdspfnig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPI8C4ZYmSXUYqZ_ixyEfhf6_lhBV6VcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689699414464-sssji0r8dfcjenj5ltsj9c41qdspfnig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
